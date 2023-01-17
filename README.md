@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/catppuccin/template">App</a>
+ Catppuccin for <a href="https://github.com/Ultimaker/Cura">Cura</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -36,10 +36,13 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Clone the contents of this repository locally
+2. In Cura, select: `Help`, then `Show Configuration Folder` and browse to `/themes`
+3. Copy the folder `/catpuccin` in the  `/themes` directory
+4. Restart Cura
+5. Head over to `Preferences` -> `Configure Cura`
+6. Select your palette from the `Theme` dropdown menu
+7. Restart Cura one last time and *enjoy*!
 
 ## 🙋 FAQ (optional)
 
