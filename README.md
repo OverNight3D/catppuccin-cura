@@ -36,9 +36,9 @@
 
 ## Usage
 
-1. Clone the contents of this repository locally
+1. Clone the contents of this repo locally
 2. In Cura, select: `Help`, then `Show Configuration Folder` and browse to `/themes`
-3. Copy the folder `/catpuccin` in the  `/themes` directory
+3. Copy the folder `/catpuccin` from this repo to the `/themes` directory
 4. Restart Cura
 5. Head over to `Preferences` -> `Configure Cura`
 6. Select your palette from the `Theme` dropdown menu
