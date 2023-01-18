@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
- Catppuccin for <a href="https://github.com/Ultimaker/Cura">Cura</a>
+[Work in Progress] Catppuccin for <a href="https://github.com/Ultimaker/Cura">Cura</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -37,7 +37,7 @@
 ## Usage
 
 1. Clone the contents of this repository locally
-2. Choose your desired palette from any of the folders above (e.g. `mocha-peach`)
+2. Choose your desired palette from any of the folders above (e.g. `themes/mocha-peach`)
 3. In Cura, select: `Help`, then `Show Configuration Folder` and browse to `/themes`
 4. Copy your palette's folder from this repo to Cura's `/themes` directory
 5. Restart Cura
@@ -52,7 +52,7 @@
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [neadioba](https://github.com/naedioba) for saving me from a lot of digging in QML files
 
 &nbsp;
 
