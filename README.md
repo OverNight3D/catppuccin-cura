@@ -45,14 +45,10 @@
 7. Select your palette from the `Theme` dropdown menu
 8. Restart Cura one last time and *enjoy*!
 
-## 🙋 FAQ (optional)
-
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
-
 ## 💝 Thanks to
 
 - [neadioba](https://github.com/naedioba) for saving me from a lot of digging in QML files
+- [nekowinston](https://github.com/nekowinston) for helping with theme testing and feedback
 
 &nbsp;
 
