@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "name": "Catpuccin Mocha - Peach",
+    "name": "Catpuccin Mocha - Pink",
     "inherits": "cura-light"
   },
 
@@ -10,11 +10,11 @@
     "background_3": [69, 71, 90, 255],
     "background_4": [17, 17, 27, 255],
 
-    "accent_1": [250, 179, 135, 255],
-    "accent_2": [250, 179, 135, 255],
+    "accent_1": [245, 194, 231, 255],
+    "accent_2": [245, 194, 231, 255],
     "border_main": [17, 17, 27, 255],
-    "border_accent_1": [250, 179, 135, 255],
-    "border_accent_2": [250, 179, 135, 255],
+    "border_accent_1": [245, 194, 231, 255],
+    "border_accent_2": [245, 194, 231, 255],
     "border_field": [255, 0, 0, 255],
 
     "text_default": [205, 214, 244, 255],
@@ -94,11 +94,11 @@
 
     "button": [39, 44, 48, 255],
     "button_hover": [39, 44, 48, 255],
-    "button_text": "background_4",
+    "button_text": "text_default",
     "button_disabled": [39, 44, 48, 255],
     "button_disabled_text": [255, 255, 255, 101],
 
-    "small_button_text": "accent_1",
+    "small_button_text": [255, 255, 255, 197],
     "small_button_text_hover": [255, 255, 255, 255],
 
     "button_tooltip": [39, 44, 48, 255],
@@ -118,7 +118,7 @@
     "tab_background": [39, 44, 48, 255],
 
     "action_button": "background_1",
-    "action_button_text": [255, 0, 0, 200],
+    "action_button_text": [255, 255, 255, 200],
     "action_button_border": "border_main",
     "action_button_hovered": [79, 85, 89, 255],
     "action_button_hovered_text": "text_default",
@@ -178,7 +178,7 @@
     "x_axis": [243, 139, 168, 255],
     "y_axis": [137, 180, 250, 255],
     "z_axis": [166, 227, 161, 255],
-    "all_axis": "accent_1",
+    "all_axis": [255, 0, 0, 255],
     "disabled_axis": [255, 0, 0, 255],
 
     "disallowed_area": [0, 0, 0, 52],
