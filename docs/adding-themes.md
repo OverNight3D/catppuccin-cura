@@ -47,3 +47,9 @@ A table to convert and explain JSON keys is provided below. Any contributions an
 |     `thick_lining` | ***?????***    |        unknown / unused        |
 | `viewport_overlay` | `background_1` |   color of the *MONITOR* tab   |
 |                    |                |                                |
+
+&nbsp;
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>

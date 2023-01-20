@@ -7,8 +7,8 @@
 
 <p align="center">
  <a href="https://github.com/OverNight3D/catppuccin-cura/stargazers"><img src="https://img.shields.io/github/stars/overnight3d/catppuccin-cura?color=89b4fa&style=for-the-badge"></a>
- <a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
- <a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+ <a href="https://github.com/overnight3d/catppuccin-cura/issues"><img src="https://img.shields.io/github/issues/overnight3d/catppuccin-cura?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+ <a href="https://github.com/overnight3d/catppuccin-cura/contributors"><img src="https://img.shields.io/github/contributors/overnight3d/catppuccin-cura?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 ## 🙋 FAQ
 
 - Q: ***"Is this compatible with Cura version X.Y.Z?"***\
- A: Take a look at the [versions table](https://github.com/OverNight3D/catppuccin-cura/tree/master/docs/compatibility.md#versions) to see if your're compatible!
+ A: Take a look at the [versions table](https://github.com/OverNight3D/catppuccin-cura/blob/master/docs/compatibility.md#versions) to see if your're compatible!
 
 ## 💝 Thanks to
 
