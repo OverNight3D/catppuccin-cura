@@ -7,9 +7,10 @@ I would argue you have little to no reasons  to not upgrade a software like Cura
 
 | Cura Verion | Theme Version | Windows | Linux | MacOS |
 | :---------: | :-----------: | :-----: | :---: | :---: |
-|  `4.13.X`   |    `0.1.0`    |   ❌    |  ❌   |  ❌   |
+|  `4.13.X`   |    `0.1.0`    |   ❌    |  ❌   |  ❔   |
 |   `5.1.X`   |    `0.1.0`    |   ✅    |  ❔   |  ❔   |
 |   `5.2.X`   |    `0.1.0`    |   ✅    |  ✅   |  ❔   |
+|   `5.3.X`   |    `0.1.0`    |   ✅    |  ❔   |  ❔   |
 |             |               |         |       |       |
 
 ### Legend
