@@ -11,6 +11,7 @@ I would argue you have little to no reasons  to not upgrade a software like Cura
 |   `5.1.X`   |    `0.1.0`    |   ✅    |  ❔   |  ❔   |
 |   `5.2.X`   |    `0.1.0`    |   ✅    |  ✅   |  ❔   |
 |   `5.3.X`   |    `0.1.0`    |   ✅    |  ❔   |  ❔   |
+|   `5.7.X`   |    `0.1.0`    |   ❔    |  ✅   |  ❔   |
 |             |               |         |       |       |
 
 ### Legend
