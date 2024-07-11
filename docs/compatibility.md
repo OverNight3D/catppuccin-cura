@@ -12,15 +12,16 @@ I would argue you have little to no reasons  to not upgrade a software like Cura
 |   `5.2.X`   |    `0.1.0`    |   ✅    |  ✅   |  ❔   |
 |   `5.3.X`   |    `0.1.0`    |   ✅    |  ❔   |  ❔   |
 |   `5.7.X`   |    `0.1.0`    |   ❔    |  ✅   |  ❔   |
-|             |               |         |       |       |
 
 ### Legend
+| Indicator | Status              |
+|:---------:|:-------------------:|
+|    ✅     | Tested and working! |
+|    ❌     | Incompatible        |
+|    ❔     | Unknown / Untested  |
 
-✅ = tested and working!\
-❌ = incompatible :(\
-❔ = unknown / untesed
-
-*your version/system/theme isn't here? test your system and open an Issue or PR!* ❤
+> [!NOTE]
+> Your version/system/theme isn't here? Test your system and open an Issue or PR! ❤
 
 &nbsp;
 
